@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Hamza Safdar, a second-semester student at FAST NUCES, Karachi Campus. I am passionate about competitive programming, regularly practicing on platforms like Codeforces to hone my algorithmic and problem-solving skills. Currently, I am focused on front-end development and deepening my understanding of software development concepts. Outside of my academic and coding pursuits, I enjoy swimming and playing chess.
+Hello! I'm Hamza Safdar, a third-semester student at FAST NUCES, Karachi Campus. I am passionate about competitive programming, regularly practicing on platforms like Codeforces to hone my algorithmic and problem-solving skills. Currently, I am focused on front-end development and deepening my understanding of software development concepts. Outside of my academic and coding pursuits, I enjoy swimming and playing chess.
 
 
 ## 🌐 Socials:
