@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hamza Safdar - I build AI that reads, retrieves and decides" width="100%"/>
+<img src="assets/hero.svg" alt="Hamza Safdar - I build AI that reads, retrieves and decides" width="100%"/>
 
 <br/><br/>
 
-<img src="assets/dossier.svg" alt="Developer dossier: Hamza Safdar, CS at FAST-NUCES, Co-Head Technical Development at GitHub Campus Club" width="100%"/>
+<img src="assets/rag-demo.svg" alt="Ask-Hamza demo: a retrieval-augmented answer to 'Who is Hamza Safdar?' citing five sources" width="100%"/>
+
+<br/><br/>
+
+<img src="assets/impact.svg" alt="2x Dean's List, 4 featured builds, 30+ students led, 500+ event participants" width="100%"/>
 
 <br/>
 
@@ -14,13 +18,7 @@
 
 <br/>
 
-<h2>⚙️ HOW I BUILD</h2>
-
-<img src="assets/pipeline.svg" alt="Pipeline: Ingest, Structure, Retrieve, Reason, Ship" width="100%"/>
-
-<br/>
-
-<h2>🗂️ CASE FILES</h2>
+<h2>🗂️ THE SOURCES</h2>
 
 <a href="https://github.com/Hamza-04-mav/ProspectIQ"><img src="assets/card-01.svg" alt="01 ProspectIQ" width="49%"/></a>
 <a href="https://github.com/Hamza-04-mav/multimodal-rag"><img src="assets/card-02.svg" alt="02 Multimodal RAG Assistant" width="49%"/></a>
